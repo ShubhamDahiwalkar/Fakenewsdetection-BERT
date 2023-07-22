@@ -1,5 +1,5 @@
 # Fakenewsdetection-BERT
-Introduction
+# Introduction
 This repository contains the "Fake and Real News Dataset" collected by Clément Bisaillon. The dataset is hosted on Kaggle and comprises a collection of news articles labeled as either fake or real. It serves as a valuable resource for researchers, developers, and data enthusiasts who are interested in exploring and analyzing the spread of misinformation and fake news in various contexts.
 
 # Dataset Description
