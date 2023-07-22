@@ -5,18 +5,18 @@ This repository contains the "Fake and Real News Dataset" collected by Clément 
 # Dataset Description
 The "Fake and Real News Dataset" consists of two CSV files: one for fake news and another for real news.
 
-fake.csv: This file contains a collection of news articles that are considered fake. It includes the following columns:
+#fake.csv: This file contains a collection of news articles that are considered fake. It includes the following columns:
 
-title: The title of the article.
-text: The main text or body of the article.
-subject: The subject category of the article.
-date: The date the article was published.
-real.csv: This file contains a collection of news articles that are verified as real. It includes the following columns:
+# title: The title of the article.
+# text: The main text or body of the article.
+# subject: The subject category of the article.
+# date: The date the article was published.
+# real.csv: This file contains a collection of news articles that are verified as real. It includes the following columns:
 
-title: The title of the article.
-text: The main text or body of the article.
-subject: The subject category of the article.
-date: The date the article was published.
+# title: The title of the article.
+# text: The main text or body of the article.
+# subject: The subject category of the article.
+# date: The date the article was published.
 Both files are provided in CSV format, making it easy to read and manipulate the data using various programming languages and data analysis tools.
 
 # Objective
